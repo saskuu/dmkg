@@ -31,4 +31,4 @@ phpunit.phar
 
 # vagrant runtime
 /.vagrant
-/vendor/bower/
+#/vendor/bower/
